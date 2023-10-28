@@ -5,7 +5,8 @@
   "main": "webpack.config.js",
   "scripts": {
     "build": "webpack",
-    "dev": "webpack serve"
+    "dev": "webpack serve",
+    "server": "node server/index.js"
   },
   "keywords": [],
   "author": "",
